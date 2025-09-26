@@ -1,12 +1,12 @@
 import React from 'react'
-import Reactlogo from '../assets/react.svg'
-import bglogo from '../images/bg.png'
+
+
+
 
 function Home() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen  bg-image bg-[url(images/bg.png)] bg-cover bg-center" >
-        <div className="bg-white p-10  rounded-2xl shadow-2xcd D:\React\practise
- w-200 h-130 sm:w-110 ht min-h-80">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-[url('/images/bg.png')] bg-cover bg-center" >
+        <div className="bg-white p-10  rounded-2xl shadow-2xcd w-200 h-130 sm:w-110  min-h-80">
             <h2 className="text-2xl font-bold  justify-center items-center text-center mb-0.5 ">Welcome Back!</h2>
             <p className="text-gray-400 font-normal mb-5 text-center ">We missed you! Please enter your details.</p>
             <form className="space-y-5">
