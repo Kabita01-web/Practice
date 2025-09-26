@@ -6,7 +6,7 @@ import Product from './Pages/Product'
 import Rentacar from './Pages/Rentacar'
 import Pricing from './Pages/Pricing'
 import Billing from './Pages/Billing'
-import Dowload from './Pages/Dowload'
+
 import Animal from './Pages/Animal'
 import Login from './Pages/Login'
 
